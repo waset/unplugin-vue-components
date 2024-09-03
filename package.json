@@ -1,18 +1,17 @@
 {
   "name": "unplugin-vue-components",
   "type": "module",
-  "version": "0.27.4",
+  "version": "0.27.5",
   "packageManager": "pnpm@9.9.0",
   "description": "Components auto importing for Vue",
-  "author": "antfu <anthonyfu117@hotmail.com>",
+  "author": "waset <waset@foxmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/unplugin/unplugin-vue-components#readme",
+  "homepage": "https://github.com/waset/unplugin-vue-components#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/unplugin/unplugin-vue-components.git"
+    "url": "https://github.com/waset/unplugin-vue-components.git"
   },
-  "bugs": "https://github.com/unplugin/unplugin-vue-components/issues",
+  "bugs": "https://github.com/waset/unplugin-vue-components/issues",
   "exports": {
     ".": {
       "import": "./dist/index.js",
